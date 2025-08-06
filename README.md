@@ -2,7 +2,7 @@
 
 > A public window into what we’ve built—and what’s next.
 
-Hi there. I’m Onur, founder of [Allegory](https://allegory.app), and this is the **first public release** from a platform that has shipped 4,700+ commits of full-stack, AI-native insurance infrastructure behind the scenes.
+Hi there. I’m Onur, founder of [Allegory](https://dev.allegory.app), and this is the **first public release** from a platform that has shipped 4,700+ commits of full-stack, AI-native insurance infrastructure behind the scenes.
 
 This repo doesn’t contain product code (yet). It contains something more fundamental: **our blueprint**.
 
