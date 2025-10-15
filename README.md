@@ -11,6 +11,7 @@
   © 2025 Allegory Technology Inc.
 -->
 # Allegory
+![alt text](image.png)
 
 > **Insurance distribution with 80% lower costs**  
 > Transforming insurance with machine intelligence
