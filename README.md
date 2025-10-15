@@ -24,12 +24,14 @@
 
 ## What We Do
 
-Allegory is an AI-native insurance distribution platform that automates the entire insurance lifecycle—from customer acquisition to policy binding to claims processing—at a fraction of traditional costs.
+Allegory is an AI-native insurance distribution platform that automates the entire insurance lifecycle from customer acquisition to policy binding to claims processing at a fraction of traditional costs.
 
 **The Problem:**
+
 Selling $100M in insurance costs $12-15M in operational expenses. That's 12-15¢ of every premium dollar spent on overhead, requiring 100-200 staff per $100M in sales.
 
 **Our Solution:**
+
 The same $100M in sales costs $4-5M with Allegory. Instant quotes. Immediate binding. Accident prevention. Customer protection. Zero labour per transaction.
 
 ---
@@ -40,7 +42,9 @@ The same $100M in sales costs $4-5M with Allegory. Instant quotes. Immediate bin
 
 AllegoryOS combines Large Language Models such as Claude and ChatGPT for sophisticated reasoning with Specialized Language Models (AI-1 & AI-2) for domain-specific execution.
 
-Our AI-2 model executes 1,000+ enterprise operations, including billing, underwriting, claims processing, regulatory filings, and reinsurance across 13 languages and dialects. Visit https://allegory.app/supported-countries for more information.
+Our AI-2 model executes 1,000+ enterprise operations, including billing, underwriting, claims processing, regulatory filings, and reinsurance across 13 languages and dialects
+
+Visit https://allegory.app/supported-countries for more information.
 
 ### Core Infrastructure
 
@@ -70,6 +74,7 @@ Working with the Allegory WebCraft Agent, our system delivers complete business 
 Once you purchase AllegoryOS, all you need to do is talk to our WebCraft Agent and then run the above command on your local machine to make it ready for deployment. Or simply talk to us and let us handle the automated building and deployment on your behalf.
 
 **Example:**
+
 Say you want to create a new digital channel to target pet owners with your new brand called "Frankie Pet Insurance."
 
 After you describe your new venture to our WebCraft AI Agent, making it live and acquiring new pet owners is as simple as running the command below:
@@ -353,7 +358,7 @@ This public repository is us living that belief.
 - **Contact**: support@allegory.app
 - **Book a Call**: [Calendly](https://calendly.com/onur-allegory)
 
-Please note that Digital Wallet and CoverCrush are our regulated products and only available to certain regions as we expand our network with new fundings and partnerships.
+Please note that Digital Wallet and CoverCrush are our regulated products and only available to certain regions. We expand our network with new fundings and partnerships.
 
 ---
 
