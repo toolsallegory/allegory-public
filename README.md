@@ -11,7 +11,7 @@
     ║                       |___/            |___/                      ║
     ║                                                                   ║
     ║                     AI-Native Operating System                    ║
-    ║                                                                   ║
+    ║                        https://allegory.app                       ║
     ╚═══════════════════════════════════════════════════════════════════╝
 ---
 
@@ -40,7 +40,7 @@ The same $100M in sales costs $4-5M with Allegory. Instant quotes. Immediate bin
 
 AllegoryOS combines Large Language Models such as Claude and ChatGPT for sophisticated reasoning with Specialized Language Models (AI-1 & AI-2) for domain-specific execution.
 
-Our AI-2 model executes 1,000+ enterprise operations, including billing, underwriting, claims processing, regulatory filings, and reinsurance across 13 languages.
+Our AI-2 model executes 1,000+ enterprise operations, including billing, underwriting, claims processing, regulatory filings, and reinsurance across 13 languages and dialects. Visit https://allegory.app/supported-countries for more information.
 
 ### Core Infrastructure
 
@@ -65,7 +65,7 @@ Our AI-2 model executes 1,000+ enterprise operations, including billing, underwr
 Working with the Allegory WebCraft Agent, our system delivers complete business application deployment in 15-30 minutes through our proprietary React 19 generation framework:
 
     > Complete business-to-production pipeline
-    > ./create-react19-project-v2.sh [project-name] [domain.com]
+    > ./create-react19-project-v2.sh [project-name] [project-secret] [domain.com]
 
 Once you purchase AllegoryOS, all you need to do is talk to our WebCraft Agent and then run the above command on your local machine to make it ready for deployment. Or simply talk to us and let us handle the automated building and deployment on your behalf.
 
@@ -73,7 +73,7 @@ Say you want to create a new digital channel to target pet owners with your new 
 
 After you describe your new venture to our WebCraft AI Agent, making it live and acquiring new pet owners is as simple as running the command below:
 
-    > ./create-react19-project-v2.sh frankie frankiepetinsurance.com
+    > ./create-react19-project-v2.sh *frankie* *SecretByWebCraft* *frankiepetinsurance.com*
 
 Once prompted, authorize GitHub repository creation and codebase access rules.
 
