@@ -25,7 +25,7 @@
 ---
 
 # Allegory
-    > AI-Native operating system for risk and insurance
+    > AI-Native operating system for risk and (re)insurance
     > Insurance distribution with 80% lower costs
     > Transforming insurance with machine intelligence
 
@@ -47,7 +47,9 @@ Same $100M in sales costs $4-5M with Allegory. Zero labour per transaction. Inst
 
 ### AllegoryOS: Hybrid AI-Native Architecture
 
-AllegoryOS combines Large Language Models (Claude 3.5/3.7/4) for sophisticated reasoning with Specialized Language Models (AI-1 & AI-2) for domain-specific execution. Our AI-2 model executes 1,000+ enterprise operations including billing, underwriting, claims processing, regulatory filings, and reinsurance across 13 languages.
+AllegoryOS combines Large Language Models (Claude 3.5/3.7/4) for sophisticated reasoning with Specialized Language Models (AI-1 & AI-2) for domain-specific execution. 
+
+Our AI-2 model executes 1,000+ enterprise operations including billing, underwriting, claims processing, regulatory filings, and reinsurance across 13 languages.
 
 ### Core Infrastructure
 
