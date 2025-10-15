@@ -168,43 +168,93 @@ The AI agent ecosystem integrates seamlessly through a real-time chat interface 
 
 **Immediate Business Operations:**
 
-Domain configuration happens automatically with DNS propagation and SSL activation. Email and SMS integration enables customer communication workflows from day one. Analytics setup includes conversion tracking and performance monitoring, while SEO optimization implements structured data, sitemaps, and meta tag generation to maximize your online visibility.
+Domain configuration happens automatically with DNS propagation and SSL activation. We acquire new domains on your behalf or you can simply choose your existing domains managed by Allegory. In either case, your existince internet presence will not be impacted and the change is seamless.
+
+Email and SMS integration enables customer communication workflows from day one.
+
+Analytics setup includes conversion tracking and performance monitoring, while SEO optimization implements structured data, sitemaps, and meta tag generation to maximize your online visibility.
 
 **Scalability & Maintenance:**
 
-Auto-scaling configuration adapts from startup traffic levels to enterprise scale without requiring architecture changes. Backup and recovery procedures are automated with disaster recovery capabilities built in. Security monitoring includes threat detection with automated response protocols. Performance optimization leverages CDN caching and database query optimization to maintain fast response times as your business grows.
+Auto-scaling configuration adapts from startup traffic levels to enterprise scale without requiring architecture changes. Backup and recovery procedures are automated with disaster recovery capabilities built in. At every new deployment, we automatically enable multi-region subnets over the cloud to ensure service stays uninterrupted.
+
+However, for heavy enterprise use cases with portfolios over 5 million customers, we suggest carriers consider our hybrid on-site and cloud solutions simultaneously.
+
+Security monitoring includes threat detection with automated response protocols. Performance optimization leverages CDN caching and database query optimization to maintain fast response times as your business grows.
 
 ## Technical Performance Metrics
 
-Deployment takes 15-30 minutes from initial conversation to live website. Global load times stay under 2 seconds worldwide through CDN optimization. The architecture supports over 1 million concurrent users with auto-scaling Lambda functions. We maintain a 99.9% uptime guarantee through automated monitoring and recovery systems. Security compliance includes SOC 2 Type II, GDPR, HIPAA, and PCI DSS readiness built into the foundation.
+Deployment takes 15-30 minutes from initial conversation to live website. 
+
+Global load times stay under 5 seconds worldwide through CDN optimization. The 5-second cases occur when we need to initialize services from cold start and when the initial user bootstrapping takes more time to prevent potential threats and attacks.
+
+After various volumetric attacks and load-balance testings, we deem that the architecture can support over 1 million concurrent users with auto-scaling Lambda functions. 
+
+We maintain a 98%+ uptime guarantee through automated monitoring and recovery systems, a metric that depends on the available human and capital resources.
 
 ## Development Efficiency Comparison
 
-Traditional development requires 3-6 months, costs $50K-$200K, and needs 5-10 developers. Allegory WebCraft delivers the same result in 15-30 minutes, costs $3K-$15K, and requires zero developers. This represents a 95%+ reduction in development costs while delivering enterprise-grade architecture from day one.
+Traditional development requires 3-6 months, costs $50K-$200K, and needs 5-10 developers. 
+
+Allegory WebCraft delivers the same result in 15-30 minutes, costs $3K-$15K, and requires zero developers. 
+
+This is a 95%+ reduction in development costs while delivering enterprise-grade architecture from day one.
 
 ## AI Agent Integration Architecture
 
-Our platform includes over 60 specialized agents organized across multiple categories. Customer service agents handle intelligent chatbot interactions, lead qualification, and multi-language support. Business operations agents manage quotes, users, and billing automation. Industry specialists include insurance underwriters, actuaries, and claims processors. Technical operations agents provide code analysis, system integration, and performance optimization. Strategic consultation agents offer technology advisory, due diligence, and business analysis services.
+Our platform includes over 60 specialized agents organized across multiple categories. 
+
+Customer service agents handle intelligent chatbot interactions, lead qualification, and multi-language support. 
+
+Business operations agents manage quotes, users, and billing automation. 
+
+Industry specialists include insurance underwriters, actuaries, and claims processors. 
+
+Technical operations agents provide code analysis, system integration, and performance optimization. Strategic consultation agents offer technology advisory, due diligence, and business analysis services.
 
 **Real-Time Processing Capabilities:**
 
-Streaming AI responses use WebSocket-based real-time communication for instant interactions. Multi-language processing provides simultaneous translation and cultural adaptation. The enterprise command bus grants access to over 1,000 specialized backend operations. Cross-agent coordination enables seamless handoffs between specialized agents, ensuring customers always interact with the most appropriate expertise for their needs.
+Streaming AI responses use WebSocket-based real-time communication for instant interactions. 
+
+Multi-language processing provides simultaneous translation and cultural adaptation. 
+
+The enterprise command bus grants access to over 1,000 specialized backend operations. 
+
+Cross-agent coordination, aka *Agentic Cross-Pollination*, enables seamless handoffs between specialized agents, ensuring customers always interact with the most appropriate expertise for their needs.
 
 ### Live Technical Demonstrations
 
-See AllegoryOS in action across three production platforms. The Allegory Platform at [allegory.app](https://allegory.app) showcases our complete business platform built with React 19 and AI architecture. Our insurance distribution implementation at [allegoryinsurance.com](https://allegoryinsurance.com) demonstrates industry-specific features including quote calculators and policy management. The AI-powered SaaS platform at [recalls.ai](https://recalls.ai) highlights our advanced search and automation capabilities, demonstrating the technical sophistication possible with AllegoryOS.
+See AllegoryOS in action across three production platforms. 
+
+**The Allegory Platform** at [allegory.app](https://allegory.app) showcases our complete business platform built with React 19 and AI architecture.
 
 ### What Makes AllegoryOS Different
 
-Unlike single-model systems, our hybrid AI architecture combines Large Language Models for sophisticated reasoning with Specialized Language Models for precise execution. Infrastructure-as-Code enables complete business applications to be deployed in minutes rather than months. Every component is built for AI integration from the ground up, not retrofitted afterward. Compliance and security are architectural foundations, not afterthoughts. The multi-tenant design delivers enterprise scalability without enterprise complexity, while the event-driven core ensures real-time responsiveness across all business operations.
+Unlike single-model systems, our hybrid AI architecture combines Large Language Models for sophisticated reasoning with Specialized Language Models for precise execution. 
+
+Infrastructure-as-Code enables complete business applications to be deployed in minutes rather than months. Every component is built for AI integration from the ground up, not retrofitted afterward. 
+
+Compliance and security are architectural foundations, not afterthoughts. 
+
+The multi-tenant design delivers enterprise scalability without enterprise complexity, while the event-driven core ensures real-time responsiveness across all business operations.
 
 ### Key Technical Metrics via *Allegory Codebase Manager*
 
-Our production codebase spans 574,521 lines across 3,731 files, maintaining a 76% quality score based on lines of code, comment ratio, code smells, cyclomatic complexity, and vulnerability count. The system has generated 4,380 Markov simulations for synthetic training data, analyzed over 1.5 million insurance policies for pattern recognition, and processed over 1 million insurance claims for automation training. Full localization covers 13 language and region combinations across 28 product modules and business application layers.
+Our production codebase spans 574,521 lines across 3,731 files, maintaining a 76% quality score based on lines of code, comment ratio, code smells, cyclomatic complexity, and latest vulnerability count. 
+
+We have generated 4,380 Markov simulations for synthetic training data, analyzed over 1.5 million insurance policies for pattern recognition, and processed over 1 million insurance claims for automation training. 
+
+Full localization covers 13 language and region combinations across 28 product modules and business application layers.
 
 ### Competitive Technical Advantages
 
-AllegoryOS delivers development speed 100 times faster than traditional approaches, completing in minutes what typically takes months. Cost efficiency improves by 90% compared to custom agency development. The platform provides enterprise-grade performance with consumer-grade simplicity, scaling seamlessly from startup to enterprise traffic levels without requiring architecture changes. Built-in regulatory compliance covers all supported industries, while multi-region deployment ensures local data sovereignty for global reach.
+AllegoryOS delivers development speed 100 times faster than traditional approaches, completing in minutes what typically takes months. 
+
+Cost efficiency improves by 90% compared to custom agency development. 
+
+The platform provides enterprise-grade performance with consumer-grade simplicity, scaling seamlessly from startup to enterprise traffic levels without requiring architecture changes. 
+
+Built-in regulatory compliance covers all supported industries, while multi-region deployment ensures local data sovereignty for global reach.
 
 ---
 
@@ -228,7 +278,7 @@ Our platform includes over 60 specialized AI agents organized to handle complete
 
 **Allegory Digital Wallet** works like Apple Wallet, but for insurance. Upload your existing policy, get an instant quote, and bind immediately.
 
-**CoverCrush by Allegory** grades your current insurance, compares it against over 47,329 real policies, and helps you buy cheaper coverage through AI-powered price comparison.
+**CoverCrush by Allegory** grades your current insurance, compares it against thousands of real policies, and helps you buy cheaper coverage through AI-powered price comparison.
 
 **Allegory ChatBot** offers zero-friction conversational insurance. Answer questions, get a quote, and bind immediately without leaving the conversation.
 
@@ -240,7 +290,7 @@ Our platform includes over 60 specialized AI agents organized to handle complete
 
 **Onur Güngör** — Founder & Technical CEO, Actuary
 
-Onur brings 15 years of actuarial experience to Allegory, having been a founding team member at Onlia. He is the architect and builder of AllegoryOS and its hybrid AI architecture.
+Onur brings 15 years of actuarial experience to Allegory, having been a founding team member at Onlia Insurance previously. He is the architect and builder of AllegoryOS and its hybrid AI architecture.
 
 [LinkedIn](https://linkedin.com/in/onur-gungor) | [Articles](https://allegory.app/news)
 
@@ -248,9 +298,9 @@ Onur brings 15 years of actuarial experience to Allegory, having been a founding
 
 ## Why This Repo Exists
 
-Until now, Allegory has been built entirely behind closed doors—over 4,700 commits of full-stack, AI-native insurance infrastructure with none of it public.
+Until now, Allegory has been built entirely behind closed doors—over 6,000 commits of full-stack, AI-native insurance infrastructure with none of it public.
 
-We believe in the power of open ecosystems. This repository represents the first step in sharing the internal systems we've built, making parts of it reusable for other builders in regulated and AI-driven verticals, and starting a real conversation about what should be open-source in insurance.
+As we navigate through this ecosystem, we more believe in the power of open ecosystems. This repository represents the first step in sharing the internal systems we've built, making parts of it reusable for other builders in regulated and AI-driven verticals, and starting a real conversation about what should be open-source in insurance.
 
 ---
 
@@ -273,7 +323,13 @@ We're not here to dump code for the sake of it. We want to open things that help
 
 ## We Want Your Input
 
-This repository is open so we can learn from you. What parts of Allegory's infrastructure or codebase would be most useful to open? Have you built or struggled with similar problems? Would you use these components if they were modular and documented?
+This repository is open so we can learn from you. 
+
+What parts of Allegory's infrastructure or codebase would be most useful to open? 
+
+Have you built or struggled with similar problems? 
+
+Would you use these components if they were modular and documented?
 
 Create an [Issue](https://github.com/toolsallegory/allegory-public/issues) or join the [Discussion](https://github.com/toolsallegory/allegory-public/discussions).
 
@@ -283,7 +339,7 @@ Create an [Issue](https://github.com/toolsallegory/allegory-public/issues) or jo
 
 We don't believe in "move fast and break things."
 
-We believe in **ship fast and fix forever.**
+We believe in **shipping quality digital products that people can rely on at their toughest times.**
 
 This public repository is us living that belief.
 
@@ -294,9 +350,10 @@ This public repository is us living that belief.
 - **Website**: [allegory.app](https://allegory.app)
 - **Digital Wallet**: [Allegory Insurance](https://allegoryinsurance.com)
 - **CoverCrush**: [covercrush.ai](https://covercrush.ai)
-- **Contact**: onur@allegory.app
+- **Contact**: support@allegory.app
 - **Book a Call**: [Calendly](https://calendly.com/onur-allegory)
 
+Please note that Digital Wallet and CoverCrush are our regulated products and only available to certain regions as we expand our network with new fundings and partnerships.
 ---
 
 ## Join Us
