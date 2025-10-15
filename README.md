@@ -10,7 +10,6 @@
   To join the fun, visit https://allegory.app/
   © 2025 Allegory Technology Inc.
 -->
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║                                                               ║
     ║         _    _ _                                   ___  ____  ║
@@ -23,11 +22,6 @@
     ║                   AI-Native Operating System                  ║
     ║                                                               ║
     ╚═══════════════════════════════════════════════════════════════╝
-# Allegory
-> **AI-Native operating system for risk and insurance**  
-> Insurance distribution with 80% lower costs  
-> Transforming insurance with machine intelligence
-
 ---
 
 # Allegory
