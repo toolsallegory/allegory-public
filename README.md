@@ -49,64 +49,117 @@ Same $100M in sales costs $4-5M with Allegory. Zero labour per transaction. Inst
 
 AllegoryOS combines Large Language Models (Claude 3.5/3.7/4) for sophisticated reasoning with Specialized Language Models (AI-1 & AI-2) for domain-specific execution. Our AI-2 model executes 1,000+ enterprise operations including billing, underwriting, claims processing, regulatory filings, and reinsurance across 13 languages.
 
-Think of it as having a universal translator who is also a subject matter expert in every aspect of your business.
-
 ### Core Infrastructure
 
 | Layer | Technology | Details |
 |-------|-----------|---------|
-| Frontend | React 19, Context API, CSS Modules | Native document metadata, mobile-first responsive design, 95+ Lighthouse scores |
-| Backend | Node.js 24, Serverless Lambda Functions | 500+ auto-scaling functions, event-driven architecture |
+| Frontend | React 19, Context API, CSS Modules | Native document metadata, mobile-first responsive design, full design library for any Dashboard requirements |
+| Backend | Node.js 24, Serverless Lambda Functions | Custom-written event-driven architecture similar to Apache Kafka |
 | Containerization | Docker + Nginx Multi-stage | Automated GitHub Actions → AWS ECR → ECS pipeline |
-| Infrastructure | Terraform IaC, AWS Multi-region | VPC isolation, auto-scaling, SSL automation, global CDN |
+| Infrastructure | Terraform IaC, AWS Multi-region | VPC isolation, auto-scaling, SSL automation, global CDN, Cloud Watch Dashboards for every service |
 | Database | DynamoDB + Redis | 100+ scalable NoSQL tables, high-performance caching |
-| API Architecture | RESTful + WebSocket | Rate limiting, real-time communication, 500+ business app connectors |
-| AI/ML | Hybrid LLM/SLM Architecture | 55+ specialized agents, real-time streaming, multilingual processing |
-| Authentication | Custom JWT + Cognito Hybrid | Role-based access, session management, enterprise SSO |
-| Security | SOC 2 Type II, WAF, KMS | VPC isolation, encryption at rest/transit, automated monitoring |
+| API Architecture | RESTful + WebSocket | Rate limiting, API key relationships between parent/sibling/child organizations, real-time communication, 1,000+ business app commands serviced from 5 API endpoints |
+| AI/ML | Hybrid LLM/SLM Architecture | 60+ specialized agents, real-time streaming, multilingual processing, ~20B-token *Synthetic Insurance Universe* |
+| Authentication | Custom JWT + Cognito Hybrid + Passwordless Access | Role-based access, session management, enterprise SSO |
+| Security | SOC 2 Type II, WAF, KMS | VPC isolation, encryption at rest/transit, automated monitoring, in-house fraud models |
 | CI/CD | GitHub Actions, Automated Testing | Environment-based deployments, zero-downtime updates |
 | Compliance | GDPR, HIPAA, PCI DSS Ready | Built-in regulatory compliance across all supported regions |
 
 ### Development & Deployment Capabilities
 
-**Automated Project Generation:**
-```bash
-# Complete business application deployment in 15-30 minutes:
-./create-react19-project-v2.sh [project-name] [domain.com]
+**Automated Project & Digital Channel Generation:**
+Working with Allegory WebCraft Agent, our system delivers complete business application deployment in 15-30 minutes through our proprietary React 19 generation framework:
 
-# Automatically provisions:
-# - Complete React 19 application with enterprise features
-# - AWS infrastructure (ECS, Lambda, DynamoDB, API Gateway)
-# - SSL certificates, CDN, monitoring, security policies
-# - Multi-language support and AI agent integration
-```
+> Complete business-to-production pipeline
+> ./create-react19-project-v2.sh [project-name] [domain.com]
 
-**Performance Specifications:**
-- **Deployment Speed:** 15-30 minutes from concept to live application
-- **Global Performance:** <2-second page load times worldwide
-- **Scalability:** Handle 1M+ concurrent users with auto-scaling
-- **Uptime:** 99.9% availability with automated recovery
-- **Languages:** Native support for 13 languages with cultural localization
+## Intelligent Requirements Processing:
+- **AI Discovery Integration**: Automatically processes WebCraft Agent conversation history
+- **Business Logic Translation**: Converts natural language requirements into technical specifications
+- **Industry Template Selection**: Applies sector-specific best practices (insurance, healthcare, legal, etc.)
+- **Feature Prioritization**: Implements core functionality first, with expansion capabilities built-in
 
-### Enterprise Integration Ecosystem
+## Complete Application Stack Generation:
 
-**Business System Connectors (500+ Applications):**
-- **CRM Integration:** Salesforce, HubSpot, Pipedrive with real-time sync
-- **Payment Processing:** Stripe, PayPal with automated billing and compliance
-- **Communication:** Multi-channel customer engagement with email/SMS automation
-- **Analytics:** Comprehensive performance monitoring and conversion tracking
-- **E-commerce:** Complete shopping cart functionality with inventory management
+**Frontend Architecture:**
+- **React 19 Application** with native document metadata (no react-helmet dependency)
+- **CSS Modules Design System** with utility classes and custom properties
+- **Multi-language Internationalization** supporting 13 languages with context-based translation
+- **Mobile-first Responsive Design** achieving 95+ Lighthouse performance scores
+- **React Context API** for SEO, Language, Auth, Theme, and Notification management
 
-**Industry-Specific Capabilities:**
-- **Insurance:** Quote calculators, policy management, claims processing, regulatory compliance
-- **Healthcare:** HIPAA-compliant patient portals, appointment booking, insurance verification
-- **Legal:** Document management, consultation scheduling, case tracking systems
-- **Real Estate:** IDX integration, lead capture, virtual tours, market analysis
+**Backend Infrastructure:**
+- **Node.js 24 + Nginx** multi-stage Docker containerization
+- **1,000+ Commands** with auto-scaling and event-driven architecture
+- **API Gateway** with RESTful and WebSocket endpoints, rate limiting
+- **DynamoDB Tables** with multi-tenant schemas and Redis caching layer
+- **Custom JWT Authentication** with Cognito hybrid implementation
+
+## Enterprise AWS Infrastructure (Terraform-Managed):
+
+**Networking & Security:**
+- VPC Architecture with multi-AZ setup, public/private subnets
+- Application Load Balancer with SSL termination and health checks
+- WAF Protection with security rules against common web attacks
+- KMS Encryption for data at rest and in transit
+- Route53 DNS with health checks and automated failover
+
+**Deployment & Monitoring:**
+- GitHub Actions CI/CD with automated testing and deployment
+- AWS ECR/ECS containerized deployment with zero-downtime updates
+- CloudWatch Integration with comprehensive metrics, logging, and alerting
+- SSL Certificates with automated renewal and global CDN integration
+
+## Business-Specific Feature Integration:
+
+**Industry Templates Automatically Applied:**
+- **Insurance**: Quote calculators, policy management, claims processing workflows, regulatory compliance
+- **Healthcare**: HIPAA-compliant patient portals, appointment booking, insurance verification
+- **Legal**: Document management, consultation scheduling, case tracking systems
+- **Real Estate**: Lead capture, virtual tours, market analysis
 - **Professional Services:** Client portals, project management, automated billing
+- **E-commerce**: Shopping cart, payment processing, inventory management, order tracking
+
+**AI Agent Ecosystem Integration:**
+- **Real-time Chat Interface** with WebSocket communication
+- **Multi-agent Coordination** for specialized business operations
+- **Streaming AI Responses** with chunked message processing
+- **Cross-language Support** with automatic translation capabilities
+
+## Post-Deployment Automation:
+
+**Immediate Business Operations:**
+- **Domain Configuration** with DNS propagation and SSL activation
+- **Email/SMS Integration** for customer communication workflows
+- **Analytics Setup** with conversion tracking and performance monitoring
+- **SEO Optimization** with structured data, sitemaps, and meta tag generation
+
+**Scalability & Maintenance:**
+- **Auto-scaling Configuration** from startup to enterprise traffic levels
+- **Backup & Recovery** with automated disaster recovery procedures
+- **Security Monitoring** with threat detection and automated response
+- **Performance Optimization** with CDN caching and database query optimization
+
+## Technical Performance Metrics:
+
+- **Deployment Time**: 15-30 minutes from conversation to live website
+- **Global Load Times**: <2 seconds worldwide with CDN optimization
+- **Concurrent Users**: 1M+ with auto-scaling Lambda architecture
+- **Uptime Guarantee**: 99.9% with automated monitoring and recovery
+- **Security Compliance**: SOC 2 Type II, GDPR, HIPAA, PCI DSS ready
+
+## Development Efficiency Comparison:
+
+- **Traditional Development**: 3-6 months, $50K-$200K, 5-10 developers
+- **Allegory WebCraft**: 15-30 minutes, $3K-$15K, zero developers required
+- **Cost Advantage**: 95%+ reduction in development costs
+- **Quality Advantage**: Enterprise-grade architecture from day one
+
+
 
 ### AI Agent Integration Architecture
 
-**55+ Specialized Agents Across Categories:**
+**60+ Specialized Agents Across Categories:**
 - **Customer Service:** Intelligent chatbots, lead qualification, multi-language support
 - **Business Operations:** Quote management, user management, billing automation
 - **Industry Specialists:** Insurance underwriters, actuaries, claims processors
@@ -158,7 +211,7 @@ See AllegoryOS in action:
 
 ## Allegory Digital Workforce
 
-**55+ AI Agents for Complete Business Operations:**
+**60+ AI Agents for Complete Business Operations:**
 
 ### Customer Acquisition & Service
 - **WebCraft AI:** Instant website creation and business deployment
