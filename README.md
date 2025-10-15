@@ -67,15 +67,17 @@ Working with the Allegory WebCraft Agent, our system delivers complete business 
     > Complete business-to-production pipeline
     > ./create-react19-project-v2.sh [project-name] [project-secret] [domain.com]
 
-    Please note that you must use the secret provided by WebCraft agent along with the same project name and domain address.
-
 Once you purchase AllegoryOS, all you need to do is talk to our WebCraft Agent and then run the above command on your local machine to make it ready for deployment. Or simply talk to us and let us handle the automated building and deployment on your behalf.
 
+**Example:**
 Say you want to create a new digital channel to target pet owners with your new brand called "Frankie Pet Insurance."
 
 After you describe your new venture to our WebCraft AI Agent, making it live and acquiring new pet owners is as simple as running the command below:
 
     > ./create-react19-project-v2.sh frankie SecretByWebCraft frankiepetinsurance.com
+
+
+*Please note that you must use the secret provided by WebCraft agent along with the same project name and domain address.*
 
 Once prompted, authorize GitHub repository creation and codebase access rules.
 
@@ -83,33 +85,82 @@ After this step, you will be directed to the first version of your website at th
 
 No code. No integration.
 
+Contact us at ai1@allegory.app to learn more.
+
 ## Intelligent Requirements Processing
 
-Our system automatically processes your conversation history with the WebCraft Agent, translating natural language requirements into technical specifications. The platform intelligently selects industry-specific templates and applies sector-specific best practices for insurance, healthcare, legal, and other regulated industries. Core functionality is implemented first, with built-in expansion capabilities that grow with your business needs.
+Our system automatically processes your conversation history with the WebCraft Agent, translating natural language requirements into technical specifications. 
+
+The platform intelligently selects industry-specific templates and applies sector-specific best practices for insurance, healthcare, legal, and other regulated industries. 
+
+Core functionality is implemented first, with built-in expansion capabilities that grow with your business needs.
 
 ## Complete Application Stack Generation
 
 **Frontend Architecture:**
 
-Every generated application is built on React 19 with native document metadata, eliminating unnecessary dependencies like react-helmet. The CSS Modules Design System includes utility classes and custom properties that maintain consistency across your entire application. Multi-language internationalization comes standard, supporting 13 languages with context-based translation that adapts to cultural nuances. The mobile-first responsive design consistently achieves 95+ Lighthouse performance scores, while React Context API manages SEO, language preferences, authentication, theming, and notifications seamlessly.
+Every generated application is built on React 19 with native document metadata, eliminating unnecessary dependencies like react-helmet. 
+
+The CSS Modules Design System includes utility classes and custom properties that maintain consistency across your entire application. 
+
+Multi-language internationalization comes standard, supporting 13 languages with context-based translation that adapts to cultural nuances. 
+
+The mobile-first responsive design consistently achieves 95+ Lighthouse performance scores, while React Context API manages SEO, language preferences, authentication, theming, and notifications seamlessly.
 
 **Backend Infrastructure:**
 
-The backend combines Node.js 24 with Nginx in a multi-stage Docker containerization setup. Our event-driven architecture provides access to over 1,000 commands with auto-scaling capabilities. The API Gateway handles both RESTful and WebSocket endpoints with intelligent rate limiting, while DynamoDB tables use multi-tenant schemas backed by a Redis caching layer for optimal performance. Custom JWT authentication integrates with Cognito for a hybrid implementation that balances security with user experience.
+The backend combines Node.js 24 with Nginx in a multi-stage Docker containerization setup. 
+
+Our event-driven architecture provides access to over 1,000 commands with auto-scaling capabilities. 
+
+The API Gateway handles both RESTful and WebSocket endpoints with intelligent rate limiting, while DynamoDB tables use multi-tenant schemas backed by a Redis caching layer for optimal performance. 
+
+Custom JWT authentication integrates with Cognito for a hybrid implementation that balances security with user experience.
+
+Across the core technology stack of Allegory, we use our own hybrid retrieval architecture: Lexical Information Retrieval through BM25 Algorithms, Signal-aware Reranking, and Event-Sourced Freshness.
+
+You can read more about our engineering at https://allegory.app/news/plato-search-beyond-vector-embeddings-production-retrieval
 
 ## Enterprise AWS Infrastructure (Terraform-Managed)
+We've coined the term "Predictive Infrastructure," which represents the main ideation behind AllegoryOS succinctly. 
+
+In short: Our OS is a million perpetual text rivers flowing in parallel where each output token by the Large Language Model is an executable function.
 
 **Networking & Security:**
 
-The VPC architecture spans multiple availability zones with carefully segregated public and private subnets. Application Load Balancers handle SSL termination and health checks, while WAF protection guards against common web attacks. KMS encryption secures data both at rest and in transit, and Route53 DNS includes health checks with automated failover to ensure continuous availability.
+The VPC architecture spans multiple availability zones with carefully segregated public and private subnets. 
+
+Application Load Balancers handle SSL termination and health checks, while WAF protection guards against common web attacks. 
+
+KMS encryption secures data both at rest and in transit, and Route53 DNS includes health checks with automated failover to ensure continuous availability.
 
 **Deployment & Monitoring:**
 
-GitHub Actions powers the CI/CD pipeline with automated testing and deployment workflows. Containerized deployment through AWS ECR and ECS enables zero-downtime updates. CloudWatch integration provides comprehensive metrics, logging, and alerting across all services. SSL certificates renew automatically, and global CDN integration ensures fast content delivery worldwide.
+GitHub Actions powers the CI/CD pipeline with automated testing and deployment workflows. 
+
+Containerized deployment through AWS ECR and ECS enables zero-downtime updates. 
+
+CloudWatch integration provides comprehensive metrics, logging, and alerting across all services. 
+
+SSL certificates renew automatically, and global CDN integration ensures fast content delivery worldwide.
+
+You can read more about our infrastructure engineering at https://allegory.app/news/predictive-infrastructure-every-token-becomes-executable
 
 ## Business-Specific Feature Integration
 
-Industry templates are automatically applied based on your business requirements. Insurance implementations include quote calculators, policy management, claims processing workflows, and regulatory compliance tools. Healthcare applications feature HIPAA-compliant patient portals, appointment booking, and insurance verification. Legal practices get document management, consultation scheduling, and case tracking systems. Real estate platforms include lead capture, virtual tours, and market analysis. Professional services receive client portals, project management, and automated billing. E-commerce sites are equipped with shopping carts, payment processing, inventory management, and order tracking.
+Industry templates are automatically applied based on your business requirements. 
+
+Insurance implementations include quote calculators, policy management, claims processing workflows, and regulatory compliance tools. 
+
+Healthcare applications feature HIPAA-compliant patient portals, appointment booking, and insurance verification. 
+
+Legal practices get document management, consultation scheduling, and case tracking systems. 
+
+Real estate platforms include lead capture, virtual tours, and market analysis. 
+
+Professional services receive client portals, project management, and automated billing. 
+
+E-commerce sites are equipped with shopping carts, payment processing, inventory management, and order tracking.
 
 The AI agent ecosystem integrates seamlessly through a real-time chat interface powered by WebSocket communication. Multi-agent coordination handles specialized business operations, with streaming AI responses delivered through chunked message processing. Cross-language support provides automatic translation capabilities, ensuring your business can serve customers in their preferred language.
 
