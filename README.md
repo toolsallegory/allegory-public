@@ -75,17 +75,17 @@ We have built an event-driven platform from scracth, keeping in mind the future 
 
 ---
 
-## Distribution Channels
+## Allegory Distribution Channels
 
-### **1. Allegory Digital Wallet (42% of quotes)**
+### **1. Allegory Digital Wallet**
 Upload existing policy → Get instant quote → Bind immediately  
 *Like Apple Wallet, but for insurance*
 
-### **2. CoverCrush by Allegory (35% of quotes)**
+### **2. CoverCrush by Allegory**
 Grade current insurance → Compare against 47,329+ real policies → Buy cheaper  
 *AI-powered price comparison*
 
-### **3. Allegory ChatBot (23% of quotes)**
+### **3. Allegory ChatBot**
 Answer questions → Get quote → Bind immediately  
 *Zero-friction conversational insurance*
 
@@ -95,9 +95,9 @@ Answer questions → Get quote → Bind immediately
 
 **Onur Güngör** — Founder & Technical CEO, Actuary
 
-- ✓ 15 years actuarial experience (Talanx/HDI, Achmea, Consultancy & AI/ML)
-- ✓ Founding team at **Onlia**
-- ✓ Builder of AllegoryOS
+- 15 years actuarial experience
+- Founding team at **Onlia**
+- Builder of AllegoryOS
 
 [LinkedIn](https://linkedin.com/in/onur-gungor) | [Articles](https://allegory.app/news)
 
