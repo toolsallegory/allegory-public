@@ -4,7 +4,7 @@
 Allegory Technology Inc.  
 onur@allegory.app
 
-First Published on: October 15, 2025
+Draft Published: October 15, 2025
 
 ---
 
