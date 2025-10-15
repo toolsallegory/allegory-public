@@ -1,27 +1,16 @@
-<!--
-  <3
-           _   _
-      __ _| | | | __ _ __ _  ___  _ __ _   _           _/\_    
-     / _` | | | |/ _ \  _` |/ _ \| '__| | | |        __\  /__  
-    | (_| | | | |  __/ (_| | (_) | |  | |_| |  ---  <_      _>
-     \__,_|_|_|_|\___|\__, |\___/|_|   \__, |         |/ )\|   
-                      |___/            |___/            /      
-  
-  To join the fun, visit https://allegory.app/
-  © 2025 Allegory Technology Inc.
--->
-    ╔═══════════════════════════════════════════════════════════════╗
-    ║                                                               ║
-    ║         _    _ _                                   ___  ____  ║
-    ║        / \  | | | ___  __ _  ___  _ __ _   _     / _ \/ ___|  ║
-    ║       / _ \ | | |/ _ \/ _` |/ _ \| '__| | | |   | | | \___ \  ║
-    ║      / ___ \| | |  __/ (_| | (_) | |  | |_| |   | |_| |___) | ║
-    ║     /_/   \_\_|_|\___|\__, |\___/|_|   \__, |    \___/|____/  ║
-    ║                       |___/            |___/                  ║
-    ║                                                               ║
-    ║                   AI-Native Operating System                  ║
-    ║                                                               ║
-    ╚═══════════════════════════════════════════════════════════════╝
+---
+    ╔═══════════════════════════════════════════════════════════════════╗
+    ║                                                                   ║
+    ║         _    _ _                                   ___  ____      ║
+    ║        / \  | | | ___  __ _  ___  _ __ _   _     / _ \/ ___|      ║
+    ║       / _ \ | | |/ _ \/ _` |/ _ \| '__| | | |   | | | \___ \      ║
+    ║      / ___ \| | |  __/ (_| | (_) | |  | |_| |   | |_| |___) |     ║
+    ║     /_/   \_\_|_|\___|\__, |\___/|_|   \__, |    \___/|____/      ║
+    ║                       |___/            |___/                      ║
+    ║                                                                   ║
+    ║                     AI-Native Operating System                    ║
+    ║                                                                   ║
+    ╚═══════════════════════════════════════════════════════════════════╝
 ---
 
 # Allegory
@@ -36,18 +25,18 @@
 Allegory is an AI-native insurance distribution platform that automates the entire insurance lifecycle from customer acquisition to policy binding to claims processing at a fraction of traditional costs.
 
 **The Problem:**
-Selling $100M in insurance costs carriers $12-15M in operational expenses. That's 12-15¢ of every premium dollar spent on overhead, requiring 100-200 staff per $100M in sales.
+Selling $100M in insurance costs $12-15M in operational expenses. That's 12-15¢ of every premium dollar spent on overhead, requiring 100-200 staff per $100M in sales.
 
 **Our Solution:**
-Same $100M in sales costs $4-5M with Allegory. Zero labour per transaction. Instant quotes. Immediate binding. Preventing accidents. Protecting customers.
+Same $100M in sales costs $4-5M with Allegory. Instant quotes. Immediate binding. Preventing accidents. Protecting customers. Zero labour per transaction. 
 
 ---
 
 ## Technology Stack
 
-### AllegoryOS: Hybrid AI-Native Architecture
+### *AllegoryOS*: Hybrid AI-Native Architecture
 
-AllegoryOS combines Large Language Models (Claude 3.5/3.7/4) for sophisticated reasoning with Specialized Language Models (AI-1 & AI-2) for domain-specific execution. 
+AllegoryOS combines Large Language Models such as Claude and ChatGPT, for sophisticated reasoning with Specialized Language Models (AI-1 & AI-2) for domain-specific execution. 
 
 Our AI-2 model executes 1,000+ enterprise operations including billing, underwriting, claims processing, regulatory filings, and reinsurance across 13 languages.
 
@@ -56,7 +45,7 @@ Our AI-2 model executes 1,000+ enterprise operations including billing, underwri
 | Layer | Technology | Details |
 |-------|-----------|---------|
 | Frontend | React 19, Context API, CSS Modules, HTML | Native document metadata, mobile-first responsive design, full design library for any Dashboard requirements |
-| Backend | Node.js 24, Serverless Lambda Functions | Custom-written event-driven architecture similar to Apache Kafka |
+| Backend | Node.js 24, Serverless Lambda Functions | Custom-made event-driven architecture similar to Apache Kafka |
 | Containerization | Docker + Nginx Multi-stage | Automated GitHub Actions → AWS ECR → ECS pipeline |
 | Infrastructure | Terraform IaC, AWS Multi-region | VPC isolation, auto-scaling, SSL automation, global CDN, Cloud Watch Dashboards for every service |
 | Database | DynamoDB + Redis | 100+ scalable NoSQL tables, high-performance caching |
@@ -72,8 +61,8 @@ Our AI-2 model executes 1,000+ enterprise operations including billing, underwri
 **Automated Project & Digital Channel Generation:**
 Working with Allegory WebCraft Agent, our system delivers complete business application deployment in 15-30 minutes through our proprietary React 19 generation framework:
 
-> Complete business-to-production pipeline
-> ./create-react19-project-v2.sh [project-name] [domain.com]
+    > Complete business-to-production pipeline
+    > ./create-react19-project-v2.sh [project-name] [domain.com]
 
 ## Intelligent Requirements Processing:
 - **AI Discovery Integration**: Automatically processes WebCraft Agent conversation history
