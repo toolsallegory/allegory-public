@@ -1,3 +1,5 @@
+# Allegory OS - AI-Native Operating System
+
 ---
     ╔═══════════════════════════════════════════════════════════════════╗
     ║                                                                   ║
@@ -22,13 +24,13 @@
 
 ## What We Do
 
-Allegory is an AI-native insurance distribution platform that automates the entire insurance lifecycle from customer acquisition to policy binding to claims processing at a fraction of traditional costs.
+Allegory is an AI-native insurance distribution platform that automates the entire insurance lifecycle—from customer acquisition to policy binding to claims processing—at a fraction of traditional costs.
 
 **The Problem:**
 Selling $100M in insurance costs $12-15M in operational expenses. That's 12-15¢ of every premium dollar spent on overhead, requiring 100-200 staff per $100M in sales.
 
 **Our Solution:**
-Same $100M in sales costs $4-5M with Allegory. Instant quotes. Immediate binding. Preventing accidents. Protecting customers. Zero labour per transaction. 
+The same $100M in sales costs $4-5M with Allegory. Instant quotes. Immediate binding. Accident prevention. Customer protection. Zero labor per transaction.
 
 ---
 
@@ -36,18 +38,18 @@ Same $100M in sales costs $4-5M with Allegory. Instant quotes. Immediate binding
 
 ### *AllegoryOS*: Hybrid AI-Native Architecture
 
-AllegoryOS combines Large Language Models such as Claude and ChatGPT, for sophisticated reasoning with Specialized Language Models (AI-1 & AI-2) for domain-specific execution. 
+AllegoryOS combines Large Language Models such as Claude and ChatGPT for sophisticated reasoning with Specialized Language Models (AI-1 & AI-2) for domain-specific execution.
 
-Our AI-2 model executes 1,000+ enterprise operations including billing, underwriting, claims processing, regulatory filings, and reinsurance across 13 languages.
+Our AI-2 model executes 1,000+ enterprise operations, including billing, underwriting, claims processing, regulatory filings, and reinsurance across 13 languages.
 
 ### Core Infrastructure
 
 | Layer | Technology | Details |
 |-------|-----------|---------|
-| Frontend | React 19, Context API, CSS Modules, HTML | Native document metadata, mobile-first responsive design, full design library for any Dashboard requirements |
-| Backend | Node.js 24, Serverless Lambda Functions | Custom-made event-driven architecture similar to Apache Kafka |
+| Frontend | React 19, Context API, CSS Modules, HTML | Native document metadata, mobile-first responsive design, full design library for any dashboard requirements |
+| Backend | Node.js 24, Serverless Lambda Functions | Custom-built event-driven architecture similar to Apache Kafka |
 | Containerization | Docker + Nginx Multi-stage | Automated GitHub Actions → AWS ECR → ECS pipeline |
-| Infrastructure | Terraform IaC, AWS Multi-region | VPC isolation, auto-scaling, SSL automation, global CDN, Cloud Watch Dashboards for every service |
+| Infrastructure | Terraform IaC, AWS Multi-region | VPC isolation, auto-scaling, SSL automation, global CDN, CloudWatch dashboards for every service |
 | Database | DynamoDB + Redis | 100+ scalable NoSQL tables, high-performance caching |
 | API Architecture | RESTful + WebSocket | Rate limiting, API key relationships between parent/sibling/child organizations, real-time communication, 1,000+ business app commands serviced from 5 API endpoints |
 | AI/ML | Hybrid LLM/SLM Architecture | 60+ specialized agents, real-time streaming, multilingual processing, ~20B-token *Synthetic Insurance Universe* |
@@ -59,7 +61,7 @@ Our AI-2 model executes 1,000+ enterprise operations including billing, underwri
 ### Development & Deployment Capabilities
 
 **Automated Project & Digital Channel Generation:**
-Working with Allegory WebCraft Agent, our system delivers complete business application deployment in 15-30 minutes through our proprietary React 19 generation framework:
+Working with the Allegory WebCraft Agent, our system delivers complete business application deployment in 15-30 minutes through our proprietary React 19 generation framework:
 
     > Complete business-to-production pipeline
     > ./create-react19-project-v2.sh [project-name] [domain.com]
@@ -68,7 +70,7 @@ Working with Allegory WebCraft Agent, our system delivers complete business appl
 - **AI Discovery Integration**: Automatically processes WebCraft Agent conversation history
 - **Business Logic Translation**: Converts natural language requirements into technical specifications
 - **Industry Template Selection**: Applies sector-specific best practices (insurance, healthcare, legal, etc.)
-- **Feature Prioritization**: Implements core functionality first, with expansion capabilities built-in
+- **Feature Prioritization**: Implements core functionality first, with built-in expansion capabilities
 
 ## Complete Application Stack Generation:
 
@@ -89,17 +91,17 @@ Working with Allegory WebCraft Agent, our system delivers complete business appl
 ## Enterprise AWS Infrastructure (Terraform-Managed):
 
 **Networking & Security:**
-- VPC Architecture with multi-AZ setup, public/private subnets
+- VPC architecture with multi-AZ setup, public/private subnets
 - Application Load Balancer with SSL termination and health checks
-- WAF Protection with security rules against common web attacks
-- KMS Encryption for data at rest and in transit
+- WAF protection with security rules against common web attacks
+- KMS encryption for data at rest and in transit
 - Route53 DNS with health checks and automated failover
 
 **Deployment & Monitoring:**
 - GitHub Actions CI/CD with automated testing and deployment
 - AWS ECR/ECS containerized deployment with zero-downtime updates
-- CloudWatch Integration with comprehensive metrics, logging, and alerting
-- SSL Certificates with automated renewal and global CDN integration
+- CloudWatch integration with comprehensive metrics, logging, and alerting
+- SSL certificates with automated renewal and global CDN integration
 
 ## Business-Specific Feature Integration:
 
@@ -108,7 +110,7 @@ Working with Allegory WebCraft Agent, our system delivers complete business appl
 - **Healthcare**: HIPAA-compliant patient portals, appointment booking, insurance verification
 - **Legal**: Document management, consultation scheduling, case tracking systems
 - **Real Estate**: Lead capture, virtual tours, market analysis
-- **Professional Services:** Client portals, project management, automated billing
+- **Professional Services**: Client portals, project management, automated billing
 - **E-commerce**: Shopping cart, payment processing, inventory management, order tracking
 
 **AI Agent Ecosystem Integration:**
@@ -146,22 +148,20 @@ Working with Allegory WebCraft Agent, our system delivers complete business appl
 - **Cost Advantage**: 95%+ reduction in development costs
 - **Quality Advantage**: Enterprise-grade architecture from day one
 
-
-
 ### AI Agent Integration Architecture
 
 **60+ Specialized Agents Across Categories:**
-- **Customer Service:** Intelligent chatbots, lead qualification, multi-language support
-- **Business Operations:** Quote management, user management, billing automation
-- **Industry Specialists:** Insurance underwriters, actuaries, claims processors
-- **Technical Operations:** Code analysis, system integration, performance optimization
-- **Strategic Consultation:** Technology advisory, due diligence, business analysis
+- **Customer Service**: Intelligent chatbots, lead qualification, multi-language support
+- **Business Operations**: Quote management, user management, billing automation
+- **Industry Specialists**: Insurance underwriters, actuaries, claims processors
+- **Technical Operations**: Code analysis, system integration, performance optimization
+- **Strategic Consultation**: Technology advisory, due diligence, business analysis
 
 **Real-Time Processing Capabilities:**
-- **Streaming AI Responses:** WebSocket-based real-time communication
-- **Multi-language Processing:** Simultaneous translation and cultural adaptation
-- **Enterprise Command Bus:** Access to 1,000+ specialized backend operations
-- **Cross-Agent Coordination:** Seamless handoffs between specialized agents
+- **Streaming AI Responses**: WebSocket-based real-time communication
+- **Multi-language Processing**: Simultaneous translation and cultural adaptation
+- **Enterprise Command Bus**: Access to 1,000+ specialized backend operations
+- **Cross-Agent Coordination**: Seamless handoffs between specialized agents
 
 ### Live Technical Demonstrations
 
@@ -172,31 +172,31 @@ See AllegoryOS in action:
 
 ### What Makes AllegoryOS Different
 
-- **Hybrid AI Architecture:** Unlike single-model systems, we combine LLMs for reasoning with SLMs for execution
-- **Infrastructure-as-Code:** Complete business applications deployed in minutes, not months
-- **AI-Native Design:** Every component built for AI integration from the ground up
-- **Regulatory-First:** Compliance and security built into the architecture, not added later
-- **Multi-Tenant by Design:** Enterprise scalability without enterprise complexity
-- **Event-Driven Core:** Real-time responsiveness across all business operations
+- **Hybrid AI Architecture**: Unlike single-model systems, we combine LLMs for reasoning with SLMs for execution
+- **Infrastructure-as-Code**: Complete business applications deployed in minutes, not months
+- **AI-Native Design**: Every component built for AI integration from the ground up
+- **Regulatory-First**: Compliance and security built into the architecture, not added later
+- **Multi-Tenant by Design**: Enterprise scalability without enterprise complexity
+- **Event-Driven Core**: Real-time responsiveness across all business operations
 
 ### Key Technical Metrics via *Allegory Codebase Manager*
 
-- 574,521 lines of production across 3,731 files
-- 76% quality score (Uses LoC, Comment Ratio, Smells, Cyclomatic Complexity, Number of Vulnaribilities)
+- 574,521 lines of production code across 3,731 files
+- 76% quality score (uses LoC, comment ratio, code smells, cyclomatic complexity, number of vulnerabilities)
 - 4,380 Markov simulations for synthetic training data generation
 - 1.5M+ insurance policies analyzed for pattern recognition
 - 1.0M+ insurance claims processed for automation training
 - 13 language/region combinations with full localization
-- 28 product modules and business application layer
+- 28 product modules and business application layers
 
 ### Competitive Technical Advantages
 
-- **Development Speed:** 100x faster than traditional development (minutes vs. months)
-- **Cost Efficiency:** 90% less expensive than custom agency development
-- **Performance:** Enterprise-grade performance with consumer-grade simplicity
-- **Scalability:** Startup to enterprise scaling without architecture changes
-- **Compliance:** Built-in regulatory compliance for all supported industries
-- **Global Reach:** Multi-region deployment with local data sovereignty
+- **Development Speed**: 100x faster than traditional development (minutes vs. months)
+- **Cost Efficiency**: 90% less expensive than custom agency development
+- **Performance**: Enterprise-grade performance with consumer-grade simplicity
+- **Scalability**: Startup to enterprise scaling without architecture changes
+- **Compliance**: Built-in regulatory compliance for all supported industries
+- **Global Reach**: Multi-region deployment with local data sovereignty
 
 ---
 
@@ -205,35 +205,35 @@ See AllegoryOS in action:
 **60+ AI Agents for Complete Business Operations:**
 
 ### Customer Acquisition & Service
-- **WebCraft AI:** Instant website creation and business deployment
-- **General Purpose Assistant:** Universal problem-solving and consultation
-- **Save on Insurance:** Quote comparison and policy optimization
-- **Migration AI:** Business process automation and system integration
+- **WebCraft AI**: Instant website creation and business deployment
+- **General Purpose Assistant**: Universal problem-solving and consultation
+- **Save on Insurance**: Quote comparison and policy optimization
+- **Migration AI**: Business process automation and system integration
 
 ### Insurance Operations
-- **Quote-and-Bind Agent:** Instant policy issuance and binding
-- **Auto Underwriter:** Vehicle insurance risk assessment and pricing
-- **Property Underwriter:** Real estate and property risk evaluation
-- **Actuary:** Risk modeling and pricing optimization
-- **Claims Processor:** Automated claims handling and settlement
+- **Quote-and-Bind Agent**: Instant policy issuance and binding
+- **Auto Underwriter**: Vehicle insurance risk assessment and pricing
+- **Property Underwriter**: Real estate and property risk evaluation
+- **Actuary**: Risk modeling and pricing optimization
+- **Claims Processor**: Automated claims handling and settlement
 
 ### Business Intelligence & Analytics
-- **Plato:** Comprehensive insurance knowledge (P&C, Health, Life, Pension)
-- **Data Scientist:** Advanced analytics and predictive modeling
-- **Feedback Classifier:** Customer sentiment analysis and categorization
-- **Performance Monitor:** Real-time business metrics and optimization
+- **Plato**: Comprehensive insurance knowledge (P&C, Health, Life, Pension)
+- **Data Scientist**: Advanced analytics and predictive modeling
+- **Feedback Classifier**: Customer sentiment analysis and categorization
+- **Performance Monitor**: Real-time business metrics and optimization
 
 ### Technical Operations
-- **Codebase Manager:** Software development and code optimization
-- **Technology Officer:** Strategic technology consultation and architecture
-- **System Integrator:** Third-party application connectivity and data sync
-- **Security Specialist:** Compliance monitoring and threat assessment
+- **Codebase Manager**: Software development and code optimization
+- **Technology Officer**: Strategic technology consultation and architecture
+- **System Integrator**: Third-party application connectivity and data sync
+- **Security Specialist**: Compliance monitoring and threat assessment
 
 ### Communication & Support
-- **Translator:** Multi-language customer support across 13 languages
-- **Meeting Scribe:** Customer interaction documentation and follow-up
-- **Email Specialist:** Automated communication and campaign management
-- **Document Processor:** File handling, validation, and organization
+- **Translator**: Multi-language customer support across 13 languages
+- **Meeting Scribe**: Customer interaction documentation and follow-up
+- **Email Specialist**: Automated communication and campaign management
+- **Document Processor**: File handling, validation, and organization
 
 ---
 
@@ -260,8 +260,8 @@ Business requirements → Complete website → Live in 15-30 minutes
 ## Founder
 
 **Onur Güngör** — Founder & Technical CEO, Actuary
-- 15 years actuarial experience
-- Founding team at Onlia
+- 15 years of actuarial experience
+- Founding team member at Onlia
 - Builder of AllegoryOS and hybrid AI architecture
 
 [LinkedIn](https://linkedin.com/in/onur-gungor) | [Articles](https://allegory.app/news)
@@ -285,7 +285,7 @@ We're not here to dump code for the sake of it. We want to open things that help
 
 | Candidate | Description |
 |----------|-------------|
-| allegory-auth | JWT-based auth system with SOC-2 ready policies |
+| allegory-auth | JWT-based auth system with SOC 2-ready policies |
 | allegory-terraform | Fully modular Terraform stack for multi-tenant SaaS |
 | allegory-agent-ui | Lightweight React UI kit for agent workflows |
 | allegory-llm-core | LLM-native orchestration framework for vertical AI products |
@@ -301,11 +301,11 @@ We're not here to dump code for the sake of it. We want to open things that help
 This repo is open so we can learn from you.
 
 Please comment or suggest:
-- What parts of Allegory's infra or codebase are most useful to open?
+- What parts of Allegory's infrastructure or codebase would be most useful to open?
 - Have you built or struggled with similar problems?
-- Would you use these components if they were modular + documented?
+- Would you use these components if they were modular and documented?
 
-Create an [Issue](github.com/toolsallegory/allegory-public/issues) or join the [Discussion](github.com/toolsallegory/allegory-public/discussions).
+Create an [Issue](https://github.com/toolsallegory/allegory-public/issues) or join the [Discussion](https://github.com/toolsallegory/allegory-public/discussions).
 
 ---
 
@@ -321,11 +321,11 @@ This public repo is us living that belief.
 
 ## Links
 
-- **Website:** [allegory.app](https://allegory.app)
-- **Digital Wallet:** [Allegory Insurance](https://allegoryinsurance.com)
-- **CoverCrush:** [covercrush.ai](https://covercrush.ai)
-- **Contact:** onur@allegory.app
-- **Book a Call:** [Calendly](https://calendly.com/onur-allegory)
+- **Website**: [allegory.app](https://allegory.app)
+- **Digital Wallet**: [Allegory Insurance](https://allegoryinsurance.com)
+- **CoverCrush**: [covercrush.ai](https://covercrush.ai)
+- **Contact**: onur@allegory.app
+- **Book a Call**: [Calendly](https://calendly.com/onur-allegory)
 
 ---
 
@@ -346,4 +346,4 @@ Founder & Technical CEO, Allegory
 
 © 2025 Allegory Technology Inc. All rights reserved.
 
-**Confidential:** This repository contains information about Allegory Technology Inc. By accessing this repository, you acknowledge that the information contained herein is confidential and agree to maintain its confidentiality.
+**Confidential**: This repository contains information about Allegory Technology Inc. By accessing this repository, you acknowledge that the information contained herein is confidential and agree to maintain its confidentiality.
