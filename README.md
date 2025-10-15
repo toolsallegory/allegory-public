@@ -1,4 +1,4 @@
-
+<!--
   <3
            _   _
       __ _| | | | __ _ __ _  ___  _ __ _   _           _/\_    
@@ -9,7 +9,7 @@
   
   To join the fun, visit https://allegory.app/
   © 2025 Allegory Technology Inc.
-
+-->
 # Allegory
 
 > **Insurance distribution with 80% lower costs**  
