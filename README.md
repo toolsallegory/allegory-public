@@ -25,9 +25,9 @@
 ---
 
 # Allegory
-> AI-Native operating system for risk and insurance
-> Insurance distribution with 80% lower costs
-> Transforming insurance with machine intelligence
+    > AI-Native operating system for risk and insurance
+    > Insurance distribution with 80% lower costs
+    > Transforming insurance with machine intelligence
 
 ---
 
