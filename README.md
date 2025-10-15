@@ -67,13 +67,15 @@ Working with the Allegory WebCraft Agent, our system delivers complete business 
     > Complete business-to-production pipeline
     > ./create-react19-project-v2.sh [project-name] [project-secret] [domain.com]
 
+    Please note that you must use the secret provided by WebCraft agent along with the same project name and domain address.
+
 Once you purchase AllegoryOS, all you need to do is talk to our WebCraft Agent and then run the above command on your local machine to make it ready for deployment. Or simply talk to us and let us handle the automated building and deployment on your behalf.
 
 Say you want to create a new digital channel to target pet owners with your new brand called "Frankie Pet Insurance."
 
 After you describe your new venture to our WebCraft AI Agent, making it live and acquiring new pet owners is as simple as running the command below:
 
-    > ./create-react19-project-v2.sh *frankie* *SecretByWebCraft* *frankiepetinsurance.com*
+    > ./create-react19-project-v2.sh frankie SecretByWebCraft frankiepetinsurance.com
 
 Once prompted, authorize GitHub repository creation and codebase access rules.
 
