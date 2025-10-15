@@ -55,7 +55,7 @@ Our AI-2 model executes 1,000+ enterprise operations including billing, underwri
 
 | Layer | Technology | Details |
 |-------|-----------|---------|
-| Frontend | React 19, Context API, CSS Modules | Native document metadata, mobile-first responsive design, full design library for any Dashboard requirements |
+| Frontend | React 19, Context API, CSS Modules, HTML | Native document metadata, mobile-first responsive design, full design library for any Dashboard requirements |
 | Backend | Node.js 24, Serverless Lambda Functions | Custom-written event-driven architecture similar to Apache Kafka |
 | Containerization | Docker + Nginx Multi-stage | Automated GitHub Actions → AWS ECR → ECS pipeline |
 | Infrastructure | Terraform IaC, AWS Multi-region | VPC isolation, auto-scaling, SSL automation, global CDN, Cloud Watch Dashboards for every service |
@@ -190,15 +190,15 @@ See AllegoryOS in action:
 - **Multi-Tenant by Design:** Enterprise scalability without enterprise complexity
 - **Event-Driven Core:** Real-time responsiveness across all business operations
 
-### Key Technical Achievements
+### Key Technical Metrics via *Allegory Codebase Manager*
 
-- 574,521 lines of production code with 76% quality score
+- 574,521 lines of production across 3,731 files
+- 76% quality score (Uses LoC, Comment Ratio, Smells, Cyclomatic Complexity, Number of Vulnaribilities)
 - 4,380 Markov simulations for synthetic training data generation
 - 1.5M+ insurance policies analyzed for pattern recognition
 - 1.0M+ insurance claims processed for automation training
 - 13 language/region combinations with full localization
-- 500+ business application pre-built integrations
-- SOC 2 Type II certified infrastructure and processes
+- 28 product modules and business application layer
 
 ### Competitive Technical Advantages
 
