@@ -37,7 +37,7 @@ AllegoryOS is designed to transform complex operations from reactive to predicti
 
 Our Infrastructure-as-Code provides immediate access to enterprise cloud with data sovereignty in 13 regions.
 
-We have built an event-driven platform from scracth, keeping in mind the future of software will be managed by executable tokens.
+We have built an event-driven platform from scratch, keeping in mind the future of software will be managed by executable tokens.
 
 | Layer | Technology |
 |-------|-----------|
