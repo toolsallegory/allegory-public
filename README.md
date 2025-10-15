@@ -331,7 +331,7 @@ Have you built or struggled with similar problems?
 
 Would you use these components if they were modular and documented?
 
-Create an [Issue](https://github.com/toolsallegory/allegory-public/issues) or join the [Discussion](https://github.com/toolsallegory/allegory-public/discussions).
+Create an [Issue](https://github.com/toolsallegory/allegory-public/issues) here.
 
 ---
 
@@ -354,6 +354,7 @@ This public repository is us living that belief.
 - **Book a Call**: [Calendly](https://calendly.com/onur-allegory)
 
 Please note that Digital Wallet and CoverCrush are our regulated products and only available to certain regions as we expand our network with new fundings and partnerships.
+
 ---
 
 ## Join Us
