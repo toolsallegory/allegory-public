@@ -614,7 +614,7 @@ The mathematical framework presented here provides a foundation for this archite
 
 **Acknowledgments**
 
-The author thanks the Allegory engineering team for implementing AllegoryOS and validating the Predictive Infrastructure framework in production. Special thanks to early adopters in the insurance industry who provided valuable feedback on system performance and capabilities.
+The author thanks to early adopters in the insurance industry who provided valuable feedback on system performance and capabilities along with 10,000+ consumers who trust by choosing Allegory as their insurance provider.
 
 ---
 
