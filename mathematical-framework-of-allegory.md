@@ -570,15 +570,45 @@ The mathematical framework presented here provides a foundation for this archite
 
 10. OpenAI. (2023). "GPT-4 Technical Report." arXiv:2303.08774.
 
-11. Güngör, O. (2024). "Plato: Search Beyond Vector Embeddings in Production Retrieval." Allegory Technology Inc. Technical Report. Available at: https://allegory.app/news/plato-search-beyond-vector-embeddings-production-retrieval
+11. Güngör, O. (2024). "Plato Search: Beyond Vector Embeddings to Production-Grade Retrieval Architecture." Allegory Technology Inc. Available at: https://allegory.app/news/plato-search-beyond-vector-embeddings-production-retrieval
 
-12. Helland, P. (2007). "Life beyond Distributed Transactions: an Apostate's Opinion." *3rd Biennial Conference on Innovative Data Systems Research*, 132-141.
+12. Güngör, O. (2025). "Allegory Intelligence-1: From Synthetic Insurance Universe to Applied General Intelligence." Allegory Technology Inc. Available at: https://allegory.app/news/allegory-intelligence-1-synthetic-universe-applied-general-intelligence
 
-13. Kleppmann, M. (2017). *Designing Data-Intensive Applications*. O'Reilly Media.
+13. Güngör, O. (2025). "Predictive Infrastructure: When Every Token Becomes Executable." Allegory Technology Inc. Available at: https://allegory.app/news/predictive-infrastructure-every-token-becomes-executable
 
-14. Bailis, P., et al. (2013). "Eventual Consistency Today: Limitations, Extensions, and Beyond." *Communications of the ACM*, 56(5), 55-63.
+14. Güngör, O. (2025). "Why Insurance Telematics Data Sits Unused While Carriers Struggle with Basic Analytics." Allegory Technology Inc. Available at: https://allegory.app/news/insurance-telematics-data-unused-analytics-struggle
 
-15. Gray, J., & Reuter, A. (1992). *Transaction Processing: Concepts and Techniques*. Morgan Kaufmann.
+15. Güngör, O. (2025). "Why Insurance AI Integration Is Harder Than Building the AI Itself." Allegory Technology Inc. Available at: https://allegory.app/news/insurance-ai-integration-harder-than-building-ai
+
+16. Güngör, O. (2025). "The Digital Actuaries of Our Time: AI Transformers." Allegory Technology Inc. Available at: https://allegory.app/news/digital-actuaries-ai-transformers
+
+17. Güngör, O. (2025). "Navigating the AI Revolution in Insurance: The 'Approved Filings' Approach." Allegory Technology Inc. Available at: https://allegory.app/news/navigating-ai-revolution-insurance-approved-filings-approach
+
+18. Güngör, O. (2025). "The AI Revolution in Product Discovery: A New Era of Digital Interaction." Allegory Technology Inc. Available at: https://allegory.app/news/ai-revolution-product-discovery-digital-interaction
+
+19. Güngör, O. (2025). "Revolutionizing Insurance: How AI Reduces $1.1B Operations to $212M." Allegory Technology Inc. Available at: https://allegory.app/news/revolutionizing-insurance-ai-reduces-operations-cost
+
+20. Güngör, O. (2025). "Advanced Actuarial Analysis: Multi-Modal Distribution Model for Insurance Operational Expenses." Allegory Technology Inc. Available at: https://allegory.app/news/a-multi-modal-llm-based-advanced-actuarial-analysis-on-insurance-operations
+
+21. Güngör, O. (2025). "The Quantified Impact of Generative Artificial Intelligence on Software Development." Allegory Technology Inc. Available at: https://allegory.app/news/quantified-impact-of-ai-on-software-development
+
+22. Helland, P. (2007). "Life beyond Distributed Transactions: an Apostate's Opinion." *3rd Biennial Conference on Innovative Data Systems Research*, 132-141.
+
+23. Kleppmann, M. (2017). *Designing Data-Intensive Applications*. O'Reilly Media.
+
+24. Bailis, P., et al. (2013). "Eventual Consistency Today: Limitations, Extensions, and Beyond." *Communications of the ACM*, 56(5), 55-63.
+
+25. Gray, J., & Reuter, A. (1992). *Transaction Processing: Concepts and Techniques*. Morgan Kaufmann.
+
+26. Stewart, J. (2008). *Calculus: Early Transcendentals*, 7th Edition. Brooks/Cole.
+
+27. Turing, A. M. (1936). "On Computable Numbers, with an Application to the Entscheidungsproblem." *Proceedings of the London Mathematical Society*, 2(42), 230-265.
+
+28. Church, A. (1936). "An Unsolvable Problem of Elementary Number Theory." *American Journal of Mathematics*, 58(2), 345-363.
+
+29. Dijkstra, E. W. (1968). "Go To Statement Considered Harmful." *Communications of the ACM*, 11(3), 147-148.
+
+30. Hoare, C. A. R. (1978). "Communicating Sequential Processes." *Communications of the ACM*, 21(8), 666-677.
 
 ---
 
