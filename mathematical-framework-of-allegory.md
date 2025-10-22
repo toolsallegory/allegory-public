@@ -4,10 +4,9 @@
 Allegory Technology Inc.  
 onur@allegory.app
 
-Draft Published: October 15, 2025
-
+Published: October 15, 2025
+*Currently under peer review*  
 ---
-
 ## Abstract
 
 We introduce Predictive Infrastructure, a mathematical framework for AI-native operating systems where Large Language Model outputs directly map to executable functions. We formalize this architecture through a six-tuple function **𝒫 = (N, ℒ, Φ, ℰ, 𝒮, 𝒯)** representing stream indices, language models, mapping functions, execution engines, state evolution, and token streams respectively. This formulation describes systems where millions of perpetual text streams flow in parallel, with each output token serving as an executable function.
