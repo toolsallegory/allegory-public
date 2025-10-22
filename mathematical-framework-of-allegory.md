@@ -6,6 +6,7 @@ onur@allegory.app
 
 Published: October 15, 2025
 *Currently under peer review*  
+
 ---
 ## Abstract
 
